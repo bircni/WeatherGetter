@@ -32,7 +32,7 @@ Requirements:
 
 1. Clone repository
 ```
-git clone https://github.com/ToiletCoders/WeatherGetter && WeatherGetter
+git clone https://github.com/ToiletCoders/WeatherGetter && cd WeatherGetter
 ```
 
 2. Switch to branch

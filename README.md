@@ -37,7 +37,7 @@ git clone https://github.com/ToiletCoders/WeatherGetter && WeatherGetter
 
 2. Switch to branch
 ```
-git checkout realStuff
+git checkout [branch this will be on]
 ```
 
 3. Compile and Run

@@ -7,7 +7,7 @@ Weather for Ulm, Germany at Sunday 5:00 AM
 
 Current conditions:
 + --------------------------------------------------
-| Temperature:                                  38°C
+| Temperature:                                  14°C
 | Precipitation:                                  3%
 | Humidity:                                      99%
 | Wind:                                        3km/h

@@ -25,6 +25,11 @@ Forecast:
 | Sunday                    Partly cloudy - (7,18)°C
 ```
 
+## Location override
+
+sometimes your location may not be determined correctly by your ip address. Therefore you may override it by entering a city name in `location-override.txt`
+
+
 ## Building from source
 
 Requirements:
@@ -40,7 +45,7 @@ git clone https://github.com/ToiletCoders/WeatherGetter && cd WeatherGetter
 git checkout [branch this will be on]
 ```
 
-3. Compile and Run
+3. Compile and run
 ```
 cabal build && cabal run
 ```

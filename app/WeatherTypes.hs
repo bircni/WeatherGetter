@@ -66,7 +66,7 @@ instance FromJSON Day where
         prependFailure "parsing Day Failed, " (typeMismatch "Object" invalid)
 
 instance Show Weather where
-    show (Weather region (Conditions dayhour (Temp _ c) precip humidity (Wind km _) _ comment) next_days _ _) =
+    show (Weather region (Conditions dayhour (Temp c _) precip humidity (Wind km _) _ comment) next_days _ _) =
         "Weather for " ++ region ++ " at " ++ dayhour ++ "\n\n"
             ++ "Current conditions:"
             ++ "\n"

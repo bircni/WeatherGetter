@@ -17,13 +17,13 @@
 </div> 
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO 
 <br />
 <div align="center">
   <a href="https://github.com/toiletcoders/WeatherGetter">
-    <img src="images/weather-black.gif" alt="Logo" width="457" height="229">
+    <img src="image/weather-white.png" alt="Logo" width="457" height="229">
   </a>
-
+-->
 <h1 align="center">WeatherGetter</h1>
 
   <p align="center">

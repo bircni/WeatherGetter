@@ -1,9 +1,45 @@
-# WeatherGetter
+<div id="top"></div>
+
+<div align="center">
+
 [![Haskell CI](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml/badge.svg)](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml)
 [![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/toiletcoders/weathergetter/releases)
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+</div> 
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/toiletcoders/WeatherGetter">
+    <img src="images/weather-black.gif" alt="Logo" width="457" height="229">
+  </a>
+
+<h1 align="center">WeatherGetter</h1>
+
+  <p align="center">
+    A small Haskell Program to get the current Weather condition
+    <br />
+    <br />
+    <br />
+
+</div>
+
+
+
+
+
+<!-- ABOUT THE PROJECT -->
+# About The Project
 Get the current weather condition and 7-Day forecast for your current (geoip-determined) or a custom location:
 
 ```
@@ -29,15 +65,33 @@ Forecast:
 | Sunday                    Partly cloudy - (7,18)°C
 ```
 
-## Location override
-
-sometimes your location may not be determined correctly by your ip address. Therefore you may override it by entering a city name in `location-override.txt`
 
 
-## Building from source
 
-Requirements:
+### Built With
+
+* [Haskell](https://www.haskell.org)
+* [Msys2](https://www.msys2.org)
+* [MingW](https://www.mingw-w64.org)
+* [VSCode](https://code.visualstudio.com)
+
+
+
+
+### Downloads
+
+Msys2: [Download](https://www.msys2.org)  
+MingW: [Download](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)
+VSCode: [Download](https://code.visualstudio.com/Download)
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Requirements
+
 - Recent version of Cabal & GHC
+### Building from source
 
 1. Clone repository
 ```
@@ -53,9 +107,62 @@ git checkout [branch this will be on]
 ```
 cabal build && cabal run
 ```
-## [Windows only](Windows-Installation.md)
-## Installation / Use
+### Location override
 
-Download your file in [Releases](https://github.com/ToiletCoders/WeatherGetter/releases) and doubleclick it.
+sometimes your location may not be determined correctly by your ip address. Therefore you may override it by entering a city name in `location-override.txt`
 
-If you have any troubles please open an issue.
+
+
+<!-- ROADMAP
+## Roadmap
+
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+    - [ ] Nested Feature
+
+See the [open issues](https://github.com/toiletcoders/WeatherGetter/issues) for a full list of proposed features (and known issues).
+
+-->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+## License
+
+Missing for now
+<!-- Distributed under the MIT License. See `LICENSE.txt` for more information.-->
+
+
+
+
+## Contact
+
+Check out our Website: [toiletcoders.xyz](https://toiletcoders.xyz)
+
+Project Link: [https://github.com/toiletcoders/WeatherGetter](https://github.com/toiletcoders/WeatherGetter)
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/toiletcoders/WeatherGetter.svg?style=for-the-badge
+[contributors-url]: https://github.com/toiletcoders/WeatherGetter/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/toiletcoders/WeatherGetter.svg?style=for-the-badge
+[forks-url]: https://github.com/toiletcoders/WeatherGetter/network/members
+[stars-shield]: https://img.shields.io/github/stars/toiletcoders/WeatherGetter.svg?style=for-the-badge
+[stars-url]: https://github.com/toiletcoders/WeatherGetter/stargazers
+[issues-shield]: https://img.shields.io/github/issues/toiletcoders/WeatherGetter.svg?style=for-the-badge
+[issues-url]: https://github.com/toiletcoders/WeatherGetter/issues
+[license-shield]: https://img.shields.io/github/license/toiletcoders/WeatherGetter.svg?style=for-the-badge
+[license-url]: https://github.com/toiletcoders/WeatherGetter/blob/master/LICENSE.txt
+[product-screenshot]: images/screenshot.pn

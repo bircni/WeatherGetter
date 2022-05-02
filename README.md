@@ -1,5 +1,9 @@
 # WeatherGetter
-[![Haskell CI](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml/badge.svg)](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml)  
+[![Haskell CI](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml/badge.svg)](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+
 Get the current weather condition and 7-Day forecast for your current (geoip-determined) or a custom location:
 
 ```

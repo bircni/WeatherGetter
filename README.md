@@ -53,7 +53,7 @@ git checkout [branch this will be on]
 ```
 cabal build && cabal run
 ```
-
+## [Windows only](Windows-Installation.md)
 ## Installation / Use
 
 Download your file in [Releases](https://github.com/ToiletCoders/WeatherGetter/releases) and doubleclick it.

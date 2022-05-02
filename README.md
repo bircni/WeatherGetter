@@ -1,5 +1,5 @@
 # WeatherGetter
-
+[![Haskell CI](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml/badge.svg)](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml)  
 Get the current weather condition and 7-Day forecast for your current (geoip-determined) or a custom location:
 
 ```

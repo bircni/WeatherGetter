@@ -52,6 +52,6 @@ cabal build && cabal run
 
 ## Installation / Use
 
-Download your file in [Releases](https://github.com/ToiletCoders/WeatherGetter/releases) and doubleclick it
+Download your file in [Releases](https://github.com/ToiletCoders/WeatherGetter/releases) and doubleclick it.
 
 If you have any troubles please open an issue.

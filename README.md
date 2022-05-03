@@ -5,14 +5,13 @@
 [![Haskell CI](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml/badge.svg)](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml)
 [![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/toiletcoders/weathergetter/releases)
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-
+[![MIT License][license-shield]][license-url]
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 
 </div> 
 
@@ -163,6 +162,6 @@ Project Link: [https://github.com/toiletcoders/WeatherGetter](https://github.com
 [stars-url]: https://github.com/toiletcoders/WeatherGetter/stargazers
 [issues-shield]: https://img.shields.io/github/issues/toiletcoders/WeatherGetter.svg?style=for-the-badge
 [issues-url]: https://github.com/toiletcoders/WeatherGetter/issues
-[license-shield]: https://img.shields.io/github/license/toiletcoders/WeatherGetter.svg?style=for-the-badge
-[license-url]: https://github.com/toiletcoders/WeatherGetter/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/toiletcoders/WeatherGetter.svg
+[license-url]: https://github.com/toiletcoders/WeatherGetter/LICENSE
 [product-screenshot]: images/screenshot.pn

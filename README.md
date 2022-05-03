@@ -154,13 +154,13 @@ Check out our Website: [toiletcoders.xyz](https://toiletcoders.xyz)
 Project Link: [https://github.com/toiletcoders/WeatherGetter](https://github.com/toiletcoders/WeatherGetter)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/toiletcoders/WeatherGetter.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/toiletcoders/WeatherGetter.svg
 [contributors-url]: https://github.com/toiletcoders/WeatherGetter/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/toiletcoders/WeatherGetter.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/toiletcoders/WeatherGetter.svg
 [forks-url]: https://github.com/toiletcoders/WeatherGetter/network/members
-[stars-shield]: https://img.shields.io/github/stars/toiletcoders/WeatherGetter.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/toiletcoders/WeatherGetter.svg
 [stars-url]: https://github.com/toiletcoders/WeatherGetter/stargazers
-[issues-shield]: https://img.shields.io/github/issues/toiletcoders/WeatherGetter.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/toiletcoders/WeatherGetter.svg
 [issues-url]: https://github.com/toiletcoders/WeatherGetter/issues
 [license-shield]: https://img.shields.io/github/license/toiletcoders/WeatherGetter.svg
 [license-url]: https://github.com/toiletcoders/WeatherGetter/LICENSE

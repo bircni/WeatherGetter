@@ -115,24 +115,16 @@ Run the script to test if it works.
 ```sh 
   chmod +x MacOS-script.sh 
 ```
-2. now you can type ``` ./MacOS.sh ``` to run it
+2. now you can type ``` ./MacOS-script.sh ``` to run it
+
+#### Windows:
+Put the `Windows-script.sh` in `/Users/YourUsername` and change the path in `Windows-script.sh` to the path you cloned the repository to.  
+Run the script to test if it works.  
+Now you can type ``` ./Windows-script.bat ``` to run it.
 ### Location override
 
 sometimes your location may not be determined correctly by your ip address. Therefore you may override it by entering a city name in `location-override.txt`
 
-
-
-<!-- ROADMAP
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/toiletcoders/WeatherGetter/issues) for a full list of proposed features (and known issues).
-
--->
 
 ## Contributing
 

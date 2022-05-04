@@ -106,6 +106,16 @@ git checkout [branch this will be on]
 ```
 cabal build && cabal run
 ```
+
+### Run the program
+#### MacOS:
+Put the `MacOS-script.sh` in `/Users/YourUsername` and change the path in `MacOS-script.sh` to the path you cloned the repository to.  
+Run the script to test if it works.  
+1. Open the Terminal in the path you saved the script and run:  
+```sh 
+  chmod +x MacOS-script.sh 
+```
+2. now you can type ``` ./MacOS.sh ``` to run it
 ### Location override
 
 sometimes your location may not be determined correctly by your ip address. Therefore you may override it by entering a city name in `location-override.txt`

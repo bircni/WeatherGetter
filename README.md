@@ -118,7 +118,7 @@ Run the script to test if it works.
 2. now you can type ``` ./MacOS-script.sh ``` to run it
 
 #### Windows:
-Put the `Windows-script.sh` in `/Users/YourUsername` and change the path in `Windows-script.sh` to the path you cloned the repository to.  
+Put the `Windows-script.bat` in `/Users/YourUsername` and change the path in `Windows-script.bat` to the path you cloned the repository to.  
 Run the script to test if it works.  
 Now you can type ``` ./Windows-script.bat ``` to run it.
 ### Location override

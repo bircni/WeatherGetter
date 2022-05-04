@@ -1,3 +1,3 @@
-cd /Users/nicolas/Documents/Github/WeatherGetter
+cd path/to/directory
 cabal build && cabal run
 cd ~

@@ -81,7 +81,7 @@ Forecast:
 
 Msys2: [Download](https://www.msys2.org)  
 MingW: [Download](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)  
-VSCode: [Download](https://code.visualstudio.com/Download)
+VSCode: [Download](https://code.visualstudio.com/Download)  
 If you have chocolately install ghc & cabal
 ```
 choco install ghc cabal

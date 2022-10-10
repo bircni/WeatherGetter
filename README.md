@@ -1,13 +1,3 @@
-<div id="top"></div>
-
-
-<!-- PROJECT LOGO 
-<br />
-<div align="center">
-  <a href="https://github.com/toiletcoders/WeatherGetter">
-    <img src="image/weather-white.png" alt="Logo" width="457" height="229">
-  </a>
--->
 <h1 align="center">WeatherGetter</h1>
 
   <p align="center">
@@ -18,11 +8,6 @@
 
 </div>
 
-
-
-
-
-<!-- ABOUT THE PROJECT -->
 # About The Project
 Get the current weather condition and 7-Day forecast for your current (geoip-determined) or a custom location:
 
@@ -50,15 +35,12 @@ Forecast:
 ```
 
 
-
-
 ### Built With
 
 * [Haskell](https://www.haskell.org)
 * [Msys2](https://www.msys2.org)
 * [MingW](https://www.mingw-w64.org)
 * [VSCode](https://code.visualstudio.com)
-
 
 
 

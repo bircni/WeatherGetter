@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">WeatherGetter</h1>
 
   <p align="center">
@@ -7,6 +8,7 @@
     <br />
 
 </div>
+-->
 
 # About The Project
 Get the current weather condition and 7-Day forecast for your current (geoip-determined) or a custom location:

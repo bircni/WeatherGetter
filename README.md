@@ -1,16 +1,8 @@
-<!--
-<h1 align="center">WeatherGetter</h1>
+# WeatherGetter
 
-  <p align="center">
-    A small Haskell Program to get the current Weather condition
-    <br />
-    <br />
-    <br />
+A small Haskell Program to get the current Weather condition
 
-</div>
--->
-
-# About The Project
+## About The Project
 Get the current weather condition and 7-Day forecast for your current (geoip-determined) or a custom location:
 
 ```

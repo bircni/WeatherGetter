@@ -1,20 +1,5 @@
 <div id="top"></div>
 
-<div align="center">
-
-[![Haskell CI](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml/badge.svg)](https://github.com/ToiletCoders/WeatherGetter/actions/workflows/haskell.yml)
-[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/toiletcoders/weathergetter/releases)
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-[![MIT License][license-shield]][license-url]
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
-</div> 
-
 
 <!-- PROJECT LOGO 
 <br />
